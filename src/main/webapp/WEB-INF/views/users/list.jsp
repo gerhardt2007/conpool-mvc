@@ -39,6 +39,7 @@
 				</tbody>
 			</table>
 		</c:if>
+		<a href="passwords">See the passwords</a>
 	</div>
 </body>
 </html>

@@ -31,6 +31,7 @@
 				</tbody>
 			</table>
 		</c:if>
+		<a href="http://github.com/nstratos/conpool-mvc.git">See the source code on github</a>
 	</div>
 </body>
 </html>
