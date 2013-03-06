@@ -13,7 +13,7 @@ import javax.persistence.TemporalType;
 import javax.persistence.Version;
 
 @Entity
-@Table(name="USERR")
+@Table(name="USER")
 public class User {
 	
 	private Long id;

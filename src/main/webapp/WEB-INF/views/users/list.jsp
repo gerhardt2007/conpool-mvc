@@ -40,6 +40,7 @@
 			</table>
 		</c:if>
 		<a href="passwords">See the passwords</a>
+		<p><a href="users/json">All users in JSON format</a></p>
 	</div>
 </body>
 </html>
